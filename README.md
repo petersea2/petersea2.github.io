@@ -32,3 +32,9 @@
 - Shift + Alt/Option + F
 - Ctrl + Shift + I
 - Shift + Alt/Option + I
+
+## Which is true?
+- false
+- false
+- **true**
+- false
